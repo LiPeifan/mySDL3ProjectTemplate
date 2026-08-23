@@ -1,0 +1,1 @@
+just a template for learn sdl3 and gamedev.
